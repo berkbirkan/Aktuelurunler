@@ -1,0 +1,30 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.38.0)
+  - PMJSON (3.1.2)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - SideMenu (5.0.3)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - PMJSON (~> 3.0)
+  - SDWebImage
+  - SideMenu
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Google-Mobile-Ads-SDK
+    - PMJSON
+    - SDWebImage
+    - SideMenu
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: fec4a72b71a81302d3fd75454df3417c03c50ed5
+  PMJSON: 32f664a68f6d9d99102976773cc88b88c567a74e
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+
+PODFILE CHECKSUM: 83bd7e32a6422af5df38ae15a1a93df1e7b8b032
+
+COCOAPODS: 1.5.3
